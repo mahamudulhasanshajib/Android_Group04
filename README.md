@@ -2,7 +2,7 @@
 This is the readme file of our group. we will use this repo for our exam.
 
 | ID    | Name                   |
-| :-----: | :---:                |
+| :-----: | :---              |
 | 30050 | Sadab Mostafa          |
 | 30043	| Mahamudul Hasan Shajib |
 | 30046	| Saiful Islam           |
