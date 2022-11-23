@@ -13,7 +13,7 @@ binarySearch(arr, x, low, high)
                else                        // x is on the left side
                    return binarySearch(arr, x, low, mid - 1)
 // By Saiful
-// ===============
+
 #include <iostream>
 using namespace std;
 
@@ -46,4 +46,4 @@ int main(void) {
   else
     printf("Element is found at index %d", result);
 }
->>>>>>> origin/main
+
